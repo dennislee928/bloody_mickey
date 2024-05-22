@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Old Newspaper Types";
+  src: url("../fonts/OldNewspaperTypes.ttf") format("ttf");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@import url("https://fonts.googleapis.com/css2?family=Bitter:ital&display=swap");

@@ -2,7 +2,7 @@
   <div>
     <div class="mickey-icon" @click="toggleNavbar">
       <!-- Mickey Mouse icon (can be an image or an icon library element) -->
-      <img src="../assets/mickey.png" alt="Menu Icon" />
+      <img src="../assets/CROSS.png" alt="Menu Icon" />
     </div>
     <div :class="['navbar', { open: isOpen }]">
       <div class="close-icon" @click="toggleNavbar">X</div>
